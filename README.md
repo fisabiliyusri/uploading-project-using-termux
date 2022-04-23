@@ -84,7 +84,5 @@ tinggal kalian **paste** token tersebut di aplikasi termux. setelah itu files ka
 
 semoga kalian paham dengan penjelasan saya ini. jika kalian masih kebingungan dengan penjelasan saya, silahkan kirimkan keluhan anda ke platform saya di bawah ini
 
-* intagram : **candradwicahyo18**
-* email : **candradwicahyo18@gmail.com**
-
-> ditulis oleh **candra dwi cahyo**
+* ....
+> ... **   **
